@@ -1,7 +1,7 @@
 /**
  * A basic Java program demonstrating classes, methods, and variables.
  */
-public class Main {
+public class happy {
 
     // The entry point of any standard Java application
     public static void main(String[] args) {
